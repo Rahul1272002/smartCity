@@ -1,0 +1,11 @@
+{
+    "apiKey": "AIzaSyAdROzh48epZ8AxPsD5p9MaAcx1cb4mdPY",
+    "authDomain": "college-project-4b23c.firebaseapp.com",
+    "databaseURL": "https://college-project-4b23c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "projectId": "college-project-4b23c",
+    "storageBucket": "college-project-4b23c.appspot.com",
+    "messagingSenderId": "56656462437",
+    "appId": "1:56656462437:web:ae7ac036882c8d21ae7c8c",
+    "measurementId": "G-GYW7G9TMF9",
+    "serviceAccount": "serviceAccountKey.json"
+}

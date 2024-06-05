@@ -1,0 +1,145 @@
+[
+    {
+        "lat": 22.512166,
+        "lng": 88.409281,
+        "area": "Ruby",
+        "totalDetections": 6,
+        "detections": [
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_BAD%20BILLBOARD_3f5c8c6b97e94bd6f0ce7338ad0f44c8.jpg.jpg?alt=media&token=94230d24-44dc-4652-960f-f9b4815e713e",
+                "detected": {
+                    "BAD BILLBOARD": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_BAD%20BILLBOARD_f3bdffbe578d4bd4580487fb7acbfb9e.jpg.jpg?alt=media&token=adee8795-b934-43c1-b8c7-4d17987d0d76",
+                "detected": {
+                    "BAD BILLBOARD": 3,
+                    "GARBAGE": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_CONSTRUCTION%20ROAD_00b5bf7dce31145b95ef3adb89a99b03.jpg.jpg?alt=media&token=0d7f09a9-2ebf-45ad-8a2f-f98b5b54844c",
+                "detected": {
+                    "CONSTRUCTION_ON_ROAD" : 1
+                }
+            }
+        ]
+    },
+    {
+        "lat": 22.512166,
+        "lng": 88.409281,
+        "area": "Anandapur",
+        "totalDetections": 4,
+        "detections": [
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_CONSTRUCTION%20ROAD_1fd01c720afd68ffd8e50e6aaeaabae9.jpg.jpg?alt=media&token=8e76075b-c8a0-4509-983d-d78492af5a0f",
+                "detected": {
+                    "CONSTRUCTION_ON_ROAD" : 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_CONSTRUCTION%20ROAD_2ae8dc9c30f1b7e7d2066ce15a6c2652.jpg.jpg?alt=media&token=9a344747-0c24-4f98-9a65-99480f3988e4",
+                "detected": {
+                    "CONSTRUCTION_ON_ROAD" : 2
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GARBAGE_0b5b0155f6446aaf834cb086a155228c.jpg.jpg?alt=media&token=da8d2df6-86f7-4aab-a2d9-5e5e5de6c414",
+                "detected": {
+                    "GARBAGE": 1
+                }
+            }
+        ]
+    },
+    {
+        "lat": 23.513246,
+        "lng": 82.432281,
+        "area": "Howrah",
+        "totalDetections": 3,
+        "detections": [
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GARBAGE_0c4619417da97d1bc78cf5d5c4f095db.jpg.jpg?alt=media&token=730fe1fa-0374-404f-bf58-02149a0b6e66",
+                "detected": {
+                    "GARBAGE": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GARBAGE_1c021eefedb4642a279a9838cc54e77e.jpg.jpg?alt=media&token=2c50dc14-d456-4640-a0d3-927f2d368792",
+                "detected": {
+                    "GARBAGE": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GARBAGE_1c69db23ce35011ea7b68caeb72fbcce.jpg.jpg?alt=media&token=a52c9ad2-87dd-42f4-a7da-9762bd5779bf",
+                "detected": {
+                    "GARBAGE": 1
+                }
+            }
+        ]
+    },
+    {
+        "lat": 23.513246,
+        "lng": 82.432281,
+        "area": "Esplanade",
+        "totalDetections": 5,
+        "detections": [
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GARBAGE_1cf78233077ac5bc53280421b9d9e964.jpg.jpg?alt=media&token=23eec61a-d0e4-4ed1-8950-8d870d502aff",
+                "detected": {
+                    "GARBAGE": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GARBAGE_2cc0f1853fb8ebf67f81a27c5bd929e7.jpg.jpg?alt=media&token=c947eeb8-9441-4bd9-bfda-017abf829654",
+                "detected": {
+                    "GARBAGE": 2
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GRAFFITI_af9a58175d87013ea24d6ccfc667a7a6.jpg.jpg?alt=media&token=625a00da-d741-40a3-a022-e253966df820",
+                "detected": {
+                    "GRAFFITI": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_POTHOLES_3da02e6649c95f2623ff04aeb7123f01.jpg.jpg?alt=media&token=c92388f9-41de-4620-b7f7-75e203350750",
+                "detected": {
+                    "POTHOLES": 1
+                }
+            }
+        ]
+    },
+    {
+        "lat": 23.513246,
+        "lng": 82.432281,
+        "area": "V.I.P. Road",
+        "totalDetections": 4,
+        "detections": [
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GRAFFITI_20af38c0e2d46aa755787a5034bb8648.jpg.jpg?alt=media&token=668e263a-ee74-4afe-a0ac-dc387832f215",
+                "detected": {
+                    "GRAFFITI": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GRAFFITI_62b5d8a8eb1e1faa54e478cdb4978329.jpg.jpg?alt=media&token=e598ed6c-8174-44cf-be06-95f59e5c476f",
+                "detected": {
+                    "GRAFFITI": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_GARBAGE_2fd03f74f7f1fe4052c70e7e9868b97c.jpg.jpg?alt=media&token=1d72939a-e311-443b-a1eb-79ae1e74122f",
+                "detected": {
+                    "GARBAGE": 1
+                }
+            },
+            {
+                "image_link": "https://firebasestorage.googleapis.com/v0/b/college-project-4b23c.appspot.com/o/dummy_images%2Fresult_POTHOLES_c656013aa89c938b8a5de0f173fd1828.jpg.jpg?alt=media&token=7490b809-b18a-48da-ae17-24a05d830ee3",
+                "detected": {
+                    "POTHOLES": 1
+                }
+            }
+        ]
+    }
+]
